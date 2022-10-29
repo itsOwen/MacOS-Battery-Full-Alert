@@ -27,8 +27,7 @@ def sendemail():
 		mailserver.starttls()
 		mailserver.ehlo()
 		mailserver.login(your_email, app_password)
-		mailserver.sendmail(your_email,
-							send_to, msg.as_string())
+		mailserver.sendmail(your_email, send_to, msg.as_string())
 		mailserver.quit()
 		return True
 	except:
