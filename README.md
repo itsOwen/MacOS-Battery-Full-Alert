@@ -14,10 +14,13 @@
 pip install psutil
 ```
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d34p7ULZbzU/0.jpg)](https://youtu.be/d34p7ULZbzU?t=528)
+
 ## Usecase / Features
 
 ```
 The main reason I created this application was to get notified whenever my Mac was fully charged.
+So that I don't overcharge my MAC. Overcharging your latpop can affect its battery life and reduce the overall performace of the system.
 
 Features:
 
