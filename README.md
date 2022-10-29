@@ -6,12 +6,28 @@
   </a>
 </p>
 
-> A very simple python script that can notify you when your Mac is Successfully charged via email and toast notifications :)
+> A very simple python script that can notify you when your Mac is full charged, via email and toast notifications :)
 
 ## Install
 
 ```sh
 pip install psutil
+```
+
+## Usecase / Features
+
+```
+The main reason I created this application was to get notified whenever my Mac was fully charged.
+
+Features:
+
+1. Send Emails via your icloud account to any other email to get notified.
+2. Get Toast notifications when your mac is fully charged.
+
+Upcoming Features:
+
+1. Notifications via Whatsapp.
+2. Free Notification Text Service.
 ```
 
 ## Usage
@@ -36,4 +52,3 @@ Give a ⭐️ if this project helped you!
 This project is [MIT](https://github.com/itsOwen/MacOS-Battery-Full-Alert/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
