@@ -20,7 +20,7 @@ pip install psutil
 
 ```
 The main reason I created this application was to get notified whenever my Mac was fully charged.
-So that I don't overcharge my MAC. Overcharging your latpop can affect its battery life and reduce the overall performace of the system.
+So that I don't overcharge my MAC. Overcharging your laptop can affect its battery life and reduce the overall performance of the system.
 
 Features:
 
