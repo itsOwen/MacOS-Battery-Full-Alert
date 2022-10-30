@@ -7,7 +7,6 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import os
-from functools import lru_cache
 
 your_email = 'youremail@icloud.com'
 send_to = 'youremail@gmail.com'
