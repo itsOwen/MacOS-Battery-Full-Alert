@@ -39,13 +39,6 @@ Upcoming Features:
 python filename.py
 ```
 
-## Author
-
-👤 **Owen**
-
-* Website: https://futuregaming.io
-* LinkedIn: [@itsOwen](https://github.com/itsOwen)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
